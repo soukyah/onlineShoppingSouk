@@ -1,1 +1,1 @@
-This is a DBMS project based on online shopping model.
+the Online Shopping System is a web-based platform designed to facilitate seamless transactions between buyers and sellers. The primary objective of this project is to provide a user-friendly, secure, and efficient environment where customers can browse, select, and purchase products without the need to visit physical stores. 
